@@ -1,6 +1,5 @@
 Music: 6.16.52  
 YouTube: 18.33.37  
-Windyapp: 34.0.2  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 ---

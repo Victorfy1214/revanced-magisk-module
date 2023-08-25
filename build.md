@@ -1,9 +1,6 @@
 YouTube: 18.23.35  
-Music (arm64-v8a): 6.16.52  
-Music (arm-v7a): 6.16.52  
+Music: 6.16.52  
 Windyapp: 34.0.2  
-
-Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 ---

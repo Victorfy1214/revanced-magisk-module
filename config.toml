@@ -58,6 +58,7 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
 
 [Windyapp]
+enabled = false
 build-mode = "module"
 version = "latest"
 apkmirror-dpi = "nodpi"

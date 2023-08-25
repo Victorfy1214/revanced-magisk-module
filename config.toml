@@ -60,7 +60,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwett
 
 [Windyapp]
 build-mode = "module"
-version = "auto"
+version = "latest"
+apkmirror-dpi = "nodpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
 [IconPackStudio]
